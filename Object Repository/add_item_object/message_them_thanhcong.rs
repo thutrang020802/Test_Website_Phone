@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>message_them_thanhcong</name>
+   <tag></tag>
+   <elementGuidId>749cb472-29c9-449b-9451-1cecd9417ddb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Thêm Thành Công']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.toastify.on.toastify-right.toastify-top</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a0e0ef75-e9ee-4157-8647-df8a5606041d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toastify on  toastify-right toastify-top</value>
+      <webElementGuid>8cda3536-0288-42be-a327-3ce26edb5591</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>polite</value>
+      <webElementGuid>edc24675-5e4c-4c99-b359-d505e3a0009f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thêm Thành Công✖</value>
+      <webElementGuid>9eecabc9-d916-4423-a935-eef7a1a247f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;toastify on  toastify-right toastify-top&quot;]</value>
+      <webElementGuid>1c0f67e5-3634-47e0-8576-3597d597d10d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thêm Thành Công']/parent::*</value>
+      <webElementGuid>20d8581a-81d0-405f-b21c-287f7d731faa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div</value>
+      <webElementGuid>302a84f5-7f57-4cd2-b702-4a9cce7d2cd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Thêm Thành Công✖' or . = 'Thêm Thành Công✖')]</value>
+      <webElementGuid>ad3bd93d-b4cd-43d0-a89e-b0bfb12fe991</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

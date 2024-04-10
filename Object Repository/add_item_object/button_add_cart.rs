@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_add_cart</name>
+   <tag></tag>
+   <elementGuidId>235a631c-abc0-42a5-96fd-4b9c0cba1462</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='addtocart']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#addtocart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>57bb89a0-2156-48e5-aae4-ea90d93b9d59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>addtocart</value>
+      <webElementGuid>6002e8e1-4a8f-4246-be55-b53f1246bf30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8ad7cf28-5514-46b6-96d7-c1eeb3ddea78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn mb-3 btn-primary</value>
+      <webElementGuid>6023b1c1-5208-4b97-9b67-173129bbbb65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thêm Vào Giỏ
+                        Hàng</value>
+      <webElementGuid>da4fb267-335d-4aeb-8786-f1d875b59f3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addtocart&quot;)</value>
+      <webElementGuid>229390d7-4069-4480-9ff1-2140363fd852</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='addtocart']</value>
+      <webElementGuid>5d032201-31c4-436e-aa85-fee450bd33ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::button[1]</value>
+      <webElementGuid>2b68569f-26ae-401e-ae39-43f4dc40c929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='−'])[1]/following::button[2]</value>
+      <webElementGuid>b731e807-e391-405e-8595-11aaa6a22957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[2]/preceding::button[1]</value>
+      <webElementGuid>ff2c868a-bee7-486e-ae9c-85ca92dfadf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh Mục'])[2]/preceding::button[1]</value>
+      <webElementGuid>ea8ebbae-22a4-43a1-8961-63f915f7ddda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>bdf40fc2-6a6b-48c4-8063-d4a4182c68a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'addtocart' and @type = 'button' and (text() = 'Thêm Vào Giỏ
+                        Hàng' or . = 'Thêm Vào Giỏ
+                        Hàng')]</value>
+      <webElementGuid>6fe7fd13-988c-47c7-b7eb-aa0052e9d215</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

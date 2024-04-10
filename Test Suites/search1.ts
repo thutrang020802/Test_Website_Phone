@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>search1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>f1ebf71d-e63c-4732-85b9-f17e6f11aead</testSuiteGuid>
+   <testCaseLink>
+      <guid>12529811-4b1a-46e8-905c-3d2c5ccaaee5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TS_seacrh/TC_search</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b61f901e-8328-4b3b-b27d-cab9c86d6032</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/search_data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>b61f901e-8328-4b3b-b27d-cab9c86d6032</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>keyword</value>
+         <variableId>dae071dd-e09b-4cdc-a765-82c75c3719dc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b61f901e-8328-4b3b-b27d-cab9c86d6032</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>message</value>
+         <variableId>5f6b7666-c040-489a-8a11-eb40a7d1aa14</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttton-search</name>
+   <tag></tag>
+   <elementGuidId>1f07b516-1f8f-4ed3-9c68-9335efd577ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='search-btn']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4ce44308-d06f-415f-8d4c-eef1cc895a00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-search</value>
+      <webElementGuid>5aa284a6-995c-47d6-858a-a572e7bf89d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-btn&quot;)/i[@class=&quot;fa fa-search&quot;]</value>
+      <webElementGuid>e464c8a0-3160-4489-aac5-64c5a21e71a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='search-btn']/i</value>
+      <webElementGuid>19104788-6d4c-4035-aa1b-effb1391df32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>53148099-8c8b-4176-88e7-dd2019faa07e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_quanly_thong tin</name>
+   <tag></tag>
+   <elementGuidId>06d9d74a-1d88-4e6b-9f23-58b4395f31ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.dropdown-menu.show > li > a.dropdown-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarsFurni']/ul[2]/li/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d260b49e-1eaf-4232-a8ec-c62b3a1f3854</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>ded0c4ae-495a-45ff-a6c4-13d89201b9ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>../views/Editprofile.php</value>
+      <webElementGuid>30078581-4898-4a37-b184-80be5f852b29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Quản Lí Tài Khoản Cá Nhân</value>
+      <webElementGuid>459cd5c0-26ce-4639-a2e8-f4967e42f06c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarsFurni&quot;)/ul[@class=&quot;custom-navbar-cta navbar-nav mb-2 mb-md-0 ms-5&quot;]/li[@class=&quot;nav-item dropdown&quot;]/ul[@class=&quot;dropdown-menu show&quot;]/li[1]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>fcc300c9-77ce-4e1f-ab4a-4ef5a128d993</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarsFurni']/ul[2]/li/ul/li/a</value>
+      <webElementGuid>76c57edd-1c37-4f2a-8dbd-34cf84094b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Quản Lí Tài Khoản Cá Nhân')]</value>
+      <webElementGuid>1b269e76-460b-40e5-83d1-9634c2f55f63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cửa Hàng'])[1]/following::a[2]</value>
+      <webElementGuid>5832d569-74c5-4b13-9c21-f3ff21bfdcff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XIAOMI'])[1]/following::a[3]</value>
+      <webElementGuid>f89713b8-49ef-40e7-8d44-f660751cd759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản Lí Đơn Hàng Cá Nhân'])[1]/preceding::a[1]</value>
+      <webElementGuid>ac284dbe-1bb5-4df0-b6eb-66ab8b443a7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng xuất'])[1]/preceding::a[2]</value>
+      <webElementGuid>d08723aa-1e73-478f-8740-5f70099956f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Quản Lí Tài Khoản Cá Nhân']/parent::*</value>
+      <webElementGuid>b38bad6a-396c-4b87-90c2-391521173d22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '../views/Editprofile.php')]</value>
+      <webElementGuid>a5722c2e-560c-4f11-a794-e7eafc290c5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li/ul/li/a</value>
+      <webElementGuid>8ec7734e-59e2-4bdf-8a7e-791e98f2798b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '../views/Editprofile.php' and (text() = 'Quản Lí Tài Khoản Cá Nhân' or . = 'Quản Lí Tài Khoản Cá Nhân')]</value>
+      <webElementGuid>23f82882-9157-4077-9fa7-7364a2253d38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

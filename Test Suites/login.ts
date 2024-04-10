@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>login</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>cf9addb6-c766-45e0-ad19-b722b4ca75cc</testSuiteGuid>
+   <testCaseLink>
+      <guid>a46f6064-2f2b-45a1-95a0-adc61f35be7c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TS_login/TS_login_failed</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5089a46e-f8dd-42a4-9018-05802bd0339f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/login_data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5089a46e-f8dd-42a4-9018-05802bd0339f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>045ddefc-1fbf-42f6-a64c-caf7a8db1ae9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5089a46e-f8dd-42a4-9018-05802bd0339f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>6916a3ad-ea54-482f-b53b-a00fdf6efc0e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5089a46e-f8dd-42a4-9018-05802bd0339f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expected_message</value>
+         <variableId>032be358-8c59-4e06-bb3f-d44d1c95d4b8</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c9d576f5-dc68-4938-9fea-5615e54d11ba</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TS_login/TS_login_failed_3lan</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bd78c6e5-7362-40e0-816e-307ae672fd5b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TS_login/TC_login_passed</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

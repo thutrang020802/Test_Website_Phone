@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_add_item_exits</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e4f381c-6620-42d7-bbf4-805d4d93210f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d90d9f47-22d9-4cd5-8216-1a07aadeed55</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d90d9f47-22d9-4cd5-8216-1a07aadeed55</id>
+      <masked>false</masked>
+      <name>item_quanlity</name>
+   </variable>
+</TestCaseEntity>

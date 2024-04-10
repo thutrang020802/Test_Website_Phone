@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS_login_failed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68cb1795-257e-4aa9-94f7-d2dd881459d2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>045ddefc-1fbf-42f6-a64c-caf7a8db1ae9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6916a3ad-ea54-482f-b53b-a00fdf6efc0e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>032be358-8c59-4e06-bb3f-d44d1c95d4b8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>045ddefc-1fbf-42f6-a64c-caf7a8db1ae9</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6916a3ad-ea54-482f-b53b-a00fdf6efc0e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>032be358-8c59-4e06-bb3f-d44d1c95d4b8</id>
+      <masked>false</masked>
+      <name>expected_message</name>
+   </variable>
+</TestCaseEntity>

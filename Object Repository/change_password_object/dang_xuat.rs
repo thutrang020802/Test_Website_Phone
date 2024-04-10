@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dang_xuat</name>
+   <tag></tag>
+   <elementGuidId>08bc96f7-3999-4192-a467-5951ef1d6877</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarsFurni']/ul[2]/li/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.dropdown-menu.show > li:nth-of-type(4) > a.dropdown-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>08ca9cd8-a165-4672-a0ac-06180d4c6945</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>717d6e84-9aa5-4589-8cf1-45f75ff2f5c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>../Processing/logout.php</value>
+      <webElementGuid>067010de-fff4-4c11-9754-b9a84fa11042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đăng xuất</value>
+      <webElementGuid>193b702b-0793-4fff-8e66-51ae566c77ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarsFurni&quot;)/ul[@class=&quot;custom-navbar-cta navbar-nav mb-2 mb-md-0 ms-5&quot;]/li[@class=&quot;nav-item dropdown&quot;]/ul[@class=&quot;dropdown-menu show&quot;]/li[4]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>474d9d55-d9e8-4985-80d2-c6f2f4d9a0db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarsFurni']/ul[2]/li/ul/li[4]/a</value>
+      <webElementGuid>8b3682c9-12e9-49c8-8e3c-43813e432575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Đăng xuất')]</value>
+      <webElementGuid>24a94f04-9627-4aba-8902-53513612e3ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản Lí Đơn Hàng Cá Nhân'])[1]/following::a[1]</value>
+      <webElementGuid>2182bb7e-e7af-49a8-84e8-089bdd64dc12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản Lí Tài Khoản Cá Nhân'])[1]/following::a[2]</value>
+      <webElementGuid>7aec3907-eab7-4cd0-8a35-469d8636c2f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản Lí Thông Tin Cá Nhân'])[1]/preceding::a[2]</value>
+      <webElementGuid>5c4a7fdc-309e-417e-a1ed-dfe5e88809fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::a[2]</value>
+      <webElementGuid>fb5b3580-0fca-442a-a043-8009b1b2c9ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đăng xuất']/parent::*</value>
+      <webElementGuid>2562d513-f359-4763-9ef4-b3f05a0776ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '../Processing/logout.php')]</value>
+      <webElementGuid>cc6af56f-df0b-41f3-818b-71e4ca62e38f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li/ul/li[4]/a</value>
+      <webElementGuid>e2bbb436-6814-4012-ace6-4fd7bfa37e0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '../Processing/logout.php' and (text() = 'Đăng xuất' or . = 'Đăng xuất')]</value>
+      <webElementGuid>b4ba376f-5f00-47b2-952e-6322442172d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
